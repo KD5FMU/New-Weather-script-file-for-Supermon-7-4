@@ -16,5 +16,9 @@ sudo chmod +x weather.sh
 
 ### So then you can edit the weather.sh file to meet your needs if you want ###
 
+```
+sudo nano /usr/local/sbin/supermon/weather.sh
+```
+
 ![wxlogo](https://github.com/KD5FMU/New-Weather-script-file-for-Supermon-7-4/blob/main/newwxscript.png)
 

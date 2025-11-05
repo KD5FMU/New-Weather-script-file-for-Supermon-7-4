@@ -5,7 +5,14 @@ To install it you first should backup your existing file
 ```
 sudo mv /usr/local/sbin/supermon/weather.sh /usr/local/sbin/supermon/weather.sh.bak
 ```
-Then we can download the new file.
+Then we need to change folders so that we can download the new file.
+
+So First do this 
+```
+cd /usr/local/sbin/supermon
+```
+Then you can downlaod the new script file
+
 ```
 sudo wget https://raw.githubusercontent.com/KD5FMU/New-Weather-script-file-for-Supermon-7-4/refs/heads/main/weather.sh
 ```
